@@ -1,4 +1,3 @@
-import React from "react";
 import css from "./CafeInfo.module.css";
 
 export default function CafeInfo() {
